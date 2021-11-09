@@ -1,2 +1,2 @@
-# project-euler-solutions
+# Project euler solutions
 Place for storing "Project Euler" solutions.
